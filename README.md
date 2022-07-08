@@ -1,7 +1,6 @@
 # absolute oids
 
-test OID regexp
-
+to test the OID regexp:
 ```shell
 make
 ```
